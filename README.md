@@ -1,11 +1,7 @@
 ### FlamingoIM
 
-[Read in English?](https://github.com/balloonwj/flamingo/blob/master/README_en.md)
 
 **我为 Flamingo 专门录制了两部高清技术讲解视频以方便读者学习，视频中介绍了Flamingo的编译和部署方法、整体架构、各个模块的技术实现细节以及如何学习Flamingo的方法，需要视频教程的读者可以扫描[高性能服务器开发]公众号二维码，关注后并在后台回复关键字“flamingo”即可得到下载链接。**
-
-![flamingo Snapshot](https://github.com/balloonwj/flamingo/blob/master/easyserverdev_logo.jpg)
-
 
 #### 介绍
 
@@ -195,7 +191,7 @@ https://github.com/baloonwj/flamingo/issues/5。
 #### 以下是部分功能截图：
 
 ##### pc版截图
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/1.png)
+<!-- ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/1.png)
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/2.png)
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/3.png)
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/4.png)
@@ -211,7 +207,7 @@ https://github.com/baloonwj/flamingo/issues/5。
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m3.jpg)
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m4.jpg)
 ![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m5.jpg)
-
+ -->
 
 
 
